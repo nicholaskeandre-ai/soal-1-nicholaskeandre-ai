@@ -2,7 +2,6 @@
 
 int main() {
     int N;
-    printf("Masukkan N: ");
     scanf("%d", &N);
 
     printf("\n");
